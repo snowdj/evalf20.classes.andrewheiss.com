@@ -93,7 +93,7 @@ lessons:
   - title: '<span class="content-title">Threats to validity</span>'
     session: "Session 6"
     date: "September 28–October 2"
-    content: "05-content"
+    content: "06-content"
     bg: 2
 
   - title: 'Weekly check-in 6'
@@ -115,6 +115,7 @@ lessons:
 
   - title: '<span class="content-title">Randomization and matching</span>'
     session: "Session 7"
+    example: "matching-ipw"
     date: "October 5–9"
     content: "07-content"
     bg: 1
@@ -136,6 +137,7 @@ lessons:
 
   - title: '<span class="content-title">Difference-in-differences I + II</span>'
     session: "Sessions 8–9"
+    example: "diff-in-diff"
     date: "October 12–23"
     content: "08-content"
     bg: 2
